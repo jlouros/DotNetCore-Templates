@@ -1,0 +1,12 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Joao Louros",
+  "classifications": ["Web", "WebAPI"],
+  "identity": "Generic.MicroserviceTemplate.CSharp",
+  "name": "Generic Microservice Template",
+  "shortName": "gms",
+  "sourceName": "Microservice.Generic",
+  "tags": {
+    "language": "C#"
+  }
+}
